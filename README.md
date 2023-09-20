@@ -4,11 +4,11 @@
 <h1 align="center">About Me! 😎</h1>
 
 - 👋 Hi, I am Onwubiko Okem Precious(CodHaking)
-- 🧱 I'm interested in Front-End Development and Programming 🧠💻🌐
+- 🧱 I'm interested in Front-End Development, CyberSecurity and Programming 🧠💻🌐
 - 🌱 I'm currently polishing off my skills so that I can become a World Class Programmer
 - 🤝 I'm open to work/help with anything Python and JS.
-- 💬 Ask me about Data Analysis, System Design & Optimization, and Automation programs. 📈🤖🧠
-- ⚡  Fun fact: I enjoy cooking, Tinkering (I'm a Mechanical Engineering Graduate) and watching Anime
+- 💬 Ask me about Front-End Development and Automation programs. 📈🤖🧠
+- ⚡  Fun fact: I enjoy cooking, Tinkering (I'm a Mechanical Engineer) and watching Anime
   
 
 <br>
